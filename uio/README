@@ -1,0 +1,4 @@
+# UIO
+Creates a Linuw Kernel Module using User Input/Output Device
+This module creates a shared memory for the kernel, the user space and the underlying hypervisor.
+See the Makefile for compiling and loading the module
